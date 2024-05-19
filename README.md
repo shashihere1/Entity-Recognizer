@@ -1,4 +1,6 @@
 #  Entity Recognition Web Application
+
+
 A Flask application which takes input file from user and identifies significant entities from the file and highlights them.
 
 Abstract:
